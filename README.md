@@ -1,4 +1,4 @@
-# image-to_video_generation
+# image_to_video_generation.py
 This python script creates a video (30 fps) from image files from a folder named 'output'.
 
 # parse_frames.py
